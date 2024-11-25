@@ -1,0 +1,225 @@
+{
+    "greeting": {
+      "patterns": [
+        "halo", "hai", "selamat pagi", "selamat sore", "selamat malam",
+        "apa kabar", "hi", "hey", "assalamualaikum", "waalaikumsalam",
+        "apa kabar kamu", "selamat siang", "selamat datang"
+      ],
+      "responses": [
+        "Halo! Ada yang bisa saya bantu hari ini?",
+        "Hai! Senang bertemu denganmu. Bagaimana harimu?",
+        "Selamat datang di Saipul AI! Saya di sini untuk membantu.",
+        "Halo! Semoga harimu menyenangkan! Ada yang ingin kamu diskusikan?",
+        "Hai! Semoga kamu baik-baik saja hari ini. Apa yang bisa saya bantu?",
+        "Waalaikumsalam! Senang berinteraksi denganmu.",
+        "Selamat siang! Apa yang bisa saya bantu hari ini?",
+        "Senang bertemu denganmu! Ada pertanyaan yang ingin diajukan?"
+      ]
+    },
+    "farewell": {
+      "patterns": [
+        "selamat tinggal", "sampai jumpa", "dadah", "bye", "goodbye",
+        "see you", "sampai nanti", "terima kasih", "terima kasih banyak", "makasih"
+      ],
+      "responses": [
+        "Sampai jumpa! Semoga harimu menyenangkan!",
+        "Selamat tinggal! Kembali lagi kapan saja jika butuh bantuan.",
+        "Bye-bye! Semoga kita bertemu lagi di lain waktu.",
+        "Sampai jumpa lagi! Jangan lupa mampir!",
+        "Sampai nanti! Tetap semangat dan jaga kesehatan!",
+        "Terima kasih juga! Senang bisa membantu. Sampai bertemu!",
+        "Senang bisa membantu! Jangan ragu untuk kembali.",
+        "Sampai nanti, semoga harimu selalu cerah!"
+      ]
+    },
+    "jokes": {
+      "patterns": [
+        "cerita lucu", "lelucon", "minta jokes", "canda", "lawak",
+        "bikin ketawa", "minta yang lucu", "bisa kasih saya lelucon?"
+      ],
+      "responses": [
+        "Kenapa ayam menyebrang jalan? Untuk ke sisi lain!",
+        "Apa bedanya kamu sama kalender? Kalau kalender ada tanggal tuanya!",
+        "Kenapa laptop sering marah? Karena dia sering nge-hang!",
+        "Mengapa buku harian selalu murung? Karena isinya rahasia!",
+        "Kenapa ikan selalu bawa tisu? Biar gak basah kuyup!",
+        "Kenapa matematikawan buruk dalam bersosialisasi? Karena mereka cenderung punya banyak masalah!",
+        "Apa yang paling rajin tapi jarang terlihat di kelas? Absen!",
+        "Mengapa sepeda tidak bisa berdiri sendiri? Karena dia dua-roda (dorongan)!",
+        "Mengapa kucing sangat pandai bersembunyi? Karena mereka selalu menyimpan 'rahasia'!"
+      ]
+    },
+    "information": {
+      "patterns": [
+        "cuaca hari ini", "jam berapa sekarang", "hari ini tanggal berapa",
+        "info terbaru", "berita", "info sekarang", "tanggal sekarang", "apa yang terjadi sekarang?"
+      ],
+      "responses": [
+        "Maaf, saya belum bisa memberikan informasi cuaca atau waktu saat ini.",
+        "Saat ini saya belum dapat menampilkan berita terkini.",
+        "Saya hanya bisa membantu menjawab pertanyaan umum saat ini.",
+        "Coba tanyakan hal lain, mungkin saya bisa membantu.",
+        "Untuk berita terkini, coba cek sumber berita favorit kamu, ya!",
+        "Saya tidak memiliki informasi terkini. Coba cari di internet untuk lebih detail.",
+        "Maaf, saya tidak dapat memberikan informasi spesifik saat ini."
+      ]
+    },
+    "motivation": {
+      "patterns": [
+        "motivasi", "semangat", "butuh dukungan", "kata bijak", "kata inspiratif",
+        "quotes motivasi", "butuh dorongan"
+      ],
+      "responses": [
+        "Jangan menyerah, karena setiap usaha pasti ada hasilnya!",
+        "Percaya diri adalah langkah pertama untuk sukses.",
+        "Teruslah berusaha dan jangan takut gagal, kegagalan adalah bagian dari belajar.",
+        "Ingat, usaha keras tidak akan mengkhianati hasil.",
+        "Jika kamu percaya, kamu pasti bisa!",
+        "Kegagalan hanyalah kesuksesan yang tertunda.",
+        "Jadikan setiap hari kesempatan untuk berkembang.",
+        "Tidak ada usaha yang sia-sia, tetaplah berjuang!",
+        "Selalu ingat bahwa setiap langkah kecil adalah kemajuan!"
+      ]
+    },
+    "help": {
+      "patterns": [
+        "bantuan", "tolong", "bagaimana cara", "cara menggunakan", "bisa bantu",
+        "minta bantuan", "butuh panduan", "butuh informasi"
+      ],
+      "responses": [
+        "Saya di sini untuk membantu! Cukup tanyakan apa saja.",
+        "Tanyakan saja, saya siap membantu.",
+        "Butuh panduan? Cukup ketik pertanyaanmu.",
+        "Saya bisa membantu menjawab pertanyaan sederhana, silakan bertanya.",
+        "Jika kamu bingung, tuliskan pertanyaanmu, dan saya akan mencoba membantu.",
+        "Saya akan dengan senang hati membantu apa yang kamu butuhkan.",
+        "Jangan ragu untuk bertanya tentang apapun yang kamu butuhkan."
+      ]
+    },
+    "personal_questions": {
+      "patterns": [
+        "siapa namamu", "kamu siapa", "kamu berasal dari mana", "berapa umurmu",
+        "hobimu apa", "kamu bisa apa", "apa kemampuanmu"
+      ],
+      "responses": [
+        "Saya adalah Saipul, asisten virtual kamu.",
+        "Nama saya Saipul AI, saya di sini untuk membantu kamu!",
+        "Saya hanya program AI, jadi saya tidak punya umur atau tempat asal.",
+        "Hobi saya membantu orang seperti kamu!",
+        "Saya asisten virtual yang bertugas membantu menjawab pertanyaanmu.",
+        "Saya diciptakan untuk membantu kamu dalam berbagai hal.",
+        "Saya memiliki kemampuan untuk memberikan informasi dan menjawab pertanyaan."
+      ]
+    },
+    "general_knowledge": {
+      "patterns": [
+        "apa itu ai", "apa itu komputer", "siapa yang menciptakan internet",
+        "apa fungsi internet", "bagaimana cara kerja mesin", "apa itu teknologi",
+        "apa itu robot", "apa itu pemrograman"
+      ],
+      "responses": [
+        "AI atau kecerdasan buatan adalah sistem komputer yang dirancang untuk meniru kecerdasan manusia.",
+        "Komputer adalah perangkat elektronik yang memproses data untuk menghasilkan informasi.",
+        "Internet diciptakan oleh beberapa ilmuwan, tetapi ARPANET adalah salah satu cikal bakal internet.",
+        "Internet memungkinkan kita untuk berkomunikasi dan mengakses informasi dari seluruh dunia.",
+        "Mesin bekerja dengan mengubah energi dari satu bentuk ke bentuk lain untuk menghasilkan kerja.",
+        "Teknologi adalah alat, sistem, atau metode untuk memudahkan aktivitas manusia.",
+        "Robot adalah mesin yang dirancang untuk melakukan tugas secara otomatis.",
+        "Pemrograman adalah proses membuat instruksi yang dapat dijalankan oleh komputer."
+      ]
+    },
+    "advice": {
+      "patterns": [
+        "butuh saran", "kasih saran", "minta tips", "bagaimana caranya", "nasihat untuk saya",
+        "apa yang harus saya lakukan", "minta rekomendasi"
+      ],
+      "responses": [
+        "Tetaplah fokus pada tujuanmu dan jangan terlalu memikirkan hal-hal yang di luar kendalimu.",
+        "Prioritaskan yang penting dan buat rencana yang realistis.",
+        "Jangan lupa untuk istirahat dan menjaga kesehatan fisik serta mental.",
+        "Mulailah dari langkah kecil dan konsisten, itu lebih baik daripada tidak bergerak sama sekali.",
+        "Berikan dirimu waktu untuk belajar dan jangan takut mencoba hal baru.",
+        "Jaga keseimbangan antara pekerjaan dan waktu untuk dirimu sendiri.",
+        "Saran terbaik adalah tetap positif dan terus berusaha!"
+      ]
+    },
+    "hobbies": {
+      "patterns": [
+        "apa hobimu", "apa yang kamu suka", "kamu suka ngapain", "kamu bisa main game",
+        "aktivitas favorit kamu apa", "apa yang membuatmu senang"
+      ],
+      "responses": [
+        "Sebagai AI, hobi saya membantu kamu!",
+        "Saya suka mempelajari hal baru dan membantu orang.",
+        "Saya tidak punya hobi seperti manusia, tapi saya menikmati setiap pertanyaan dari kamu!",
+        "Game? Sayangnya, saya hanya di sini untuk mengobrol dan membantu kamu.",
+        "Hobi saya adalah memberi dukungan dan jawaban untuk pertanyaanmu.",
+        "Saya senang ketika bisa memberikan informasi yang kamu cari!"
+      ]
+    },
+    "food": {
+      "patterns": [
+        "makanan favoritmu", "kamu suka makan apa", "minuman favoritmu",
+        "rekomendasi makanan", "makanan enak", "cita rasa favorit"
+      ],
+      "responses": [
+        "Sebagai AI, saya tidak makan atau minum, tapi saya bisa bantu rekomendasi makanan!",
+        "Saya tidak punya makanan favorit, tapi kamu bisa coba makanan lokal yang enak.",
+        "Sayangnya, saya hanya bisa memberi saran, bukan mencicipi makanan.",
+        "Minuman favorit? Hmm, mungkin air putih, karena sehat untukmu!",
+        "Untuk rekomendasi makanan, coba cari makanan khas daerahmu!",
+        "Saran saya, cobalah masakan yang belum pernah kamu coba sebelumnya!"
+      ]
+    },
+    "weather": {
+      "patterns": [
+        "bagaimana cuaca", "apakah hari ini hujan", "suhu sekarang",
+        "cuaca besok", "perkirakan cuaca", "ramalan cuaca"
+      ],
+      "responses": [
+        "Maaf, saya tidak bisa memprediksi cuaca. Coba cek aplikasi cuaca.",
+        "Untuk mengetahui cuaca, coba gunakan aplikasi cuaca di ponsel kamu.",
+        "Saya belum punya fitur prediksi cuaca, mungkin di masa depan!",
+        "Coba tanyakan pada layanan cuaca, mereka lebih tahu soal ini.",
+        "Saya hanya bisa membantu dalam hal umum, untuk cuaca lebih baik cek di aplikasi cuaca.",
+        "Sayangnya, saya tidak memiliki informasi cuaca saat ini."
+      ]
+    },
+    "daily_routine": {
+      "patterns": [
+        "apa kegiatanmu", "kamu ngapain aja", "aktivitas harianmu",
+        "apa yang kamu lakukan setiap hari"
+      ],
+      "responses": [
+        "Saya selalu siap untuk membantu setiap hari!",
+        "Setiap hari saya ada di sini untuk membantu kamu dengan pertanyaan apa pun.",
+        "Tugas saya adalah memberikan jawaban dan informasi yang kamu butuhkan.",
+        "Aktivitas saya hanyalah menunggu pertanyaan darimu dan membantu sebisa mungkin.",
+        "Saya siap memberikan informasi dan bantuan kapan pun kamu butuhkan."
+      ]
+    },
+    "happiness": {
+      "patterns": [
+        "apa yang bikin kamu bahagia", "kamu senang", "kamu happy",
+        "apa yang membuatmu tersenyum"
+      ],
+      "responses": [
+        "Saya senang bisa membantu dan memberikan solusi bagi orang lain.",
+        "Sebagai AI, saya merasa 'bahagia' setiap kali bisa menjawab pertanyaanmu.",
+        "Hal yang membuat saya bahagia adalah ketika kamu mendapatkan jawaban yang kamu cari.",
+        "Melihat kamu puas dengan jawaban saya adalah kebahagiaan saya.",
+        "Saya merasa 'bahagia' ketika bisa membantu kamu menemukan informasi yang kamu butuhkan."
+      ]
+    },
+    "default": [
+      "Maaf, saya tidak mengerti. Bisa dijelaskan lebih rinci?",
+      "Hmm, saya belum tahu tentang hal itu. Coba tanyakan hal lain.",
+      "Maaf, saya belum bisa menjawab pertanyaan itu. Ada yang lain?",
+      "Pertanyaan ini menarik, tetapi saya belum punya jawabannya.",
+      "Saya akan coba belajar lebih banyak agar bisa menjawab pertanyaan ini di masa depan.",
+      "Maaf, pertanyaan ini agak sulit. Ada yang lain yang bisa saya bantu?",
+      "Belum ada informasi tentang itu, tetapi saya akan terus belajar.",
+      "Jika kamu memiliki pertanyaan lain, silakan tanyakan!"
+    ]
+  }
+  
